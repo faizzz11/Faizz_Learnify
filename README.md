@@ -8,7 +8,7 @@ Follow these steps to clone and run the Learnify project:
 
    bash
    ```bash
-   git clone https://github.com/faizzz11/Learnify.git
+   git clone https://github.com/faizzz11/Faizz_Learnify.git
    
    ```
 
@@ -17,7 +17,7 @@ Follow these steps to clone and run the Learnify project:
 
    bash
    ```bash
-   cd Learnify
+   cd Faizz_Learnify
    
    ```
 
