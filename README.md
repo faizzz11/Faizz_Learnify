@@ -35,9 +35,7 @@ Follow these steps to clone and run the Learnify project:
 4. **Start the website in the browser**:
    ```bash
    npm start
-   
-   Or build the project for production:
-   bash
+
    ```
 5. **Build the project for production** (optional):
    ```bash
@@ -52,7 +50,7 @@ Follow these steps to clone and run the Learnify project:
 - *Technologies Used:* The project is built using *React.js* with *Tailwind CSS* for styling.
 - *Resources Referenced:*
   - Official documentation of the technologies.
-  - [Tailblocs](https://tailblocks.cc) for ready-made Tailwind components.
+  - [Tailblocks](https://tailblocks.cc) for ready-made Tailwind components.
   - Various YouTube videos for UI improvements.
 - *Images:* Sourced from [Unsplash](https://unsplash.com).
 - *Backend:* Currently, the project does not include a backend. It is solely focused on the frontend (UI).
